@@ -1,0 +1,12 @@
+﻿
+namespace MongoDataAccess.Models
+{
+    public class StudentModel
+
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public List<int> Score { get; set; } = new List<int>();
+    }
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MIS_MongoTask/MIS_MongoTask.csproj" />
+  <Project Path="MongoDataAccess/MongoDataAccess.csproj" />
+</Solution>
